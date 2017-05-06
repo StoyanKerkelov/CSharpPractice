@@ -1,0 +1,1 @@
+# This are solved homework tasks from 2016-Autumn Bulgaria Telerik courses. I claim no authorship over the homework assignments.

@@ -1,0 +1,6 @@
+﻿THIS is the contents from text.txt file:
+</ br>
+!@#$%^&*()_+/*<>?"|{}[];'\,.
+
+Това е на КирилицаTHIS is written by C#
+THIS is written by C#

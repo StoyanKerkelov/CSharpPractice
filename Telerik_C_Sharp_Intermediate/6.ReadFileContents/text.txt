@@ -1,0 +1,3 @@
+﻿this is the contents from text.txt file
+asdf asdf1 asdf 2 asdf 3
+Това е на Кирилица
